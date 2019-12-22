@@ -11,3 +11,5 @@ fix-B created
 - feature-A
 - fix-B
 - feature-C
+
+another developer
